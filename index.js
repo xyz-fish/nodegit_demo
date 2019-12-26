@@ -3,9 +3,9 @@ const MQn = require('@mengmaxx/qn_upload')
 
 const upload = new MQn(
   {
-    bucket: 'mengmax',
-    accessKey: 'FbWLLAAcB2uOMwRtGCcsKNJNxpGO0eRryoOoM-tW',
-    secretKey: 'tT4E1VbdIn-WecZ_T9kKztH1lQEro43pidhzUrxz'
+    bucket: 'w',
+    accessKey: 'cw-tW',
+    secretKey: 'cw-WecZ_T9kKztH1lQEro43pidhzUrxz'
   }
 )
 
