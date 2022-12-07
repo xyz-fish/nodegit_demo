@@ -12,6 +12,6 @@
     "@mengmaxx/qn_upload": "^1.0.4"
   },
   "devDependencies": {
-    "simple-git": "^1.129.0"
+    "simple-git": "^3.15.0"
   }
 }
